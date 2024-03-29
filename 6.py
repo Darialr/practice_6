@@ -6,4 +6,3 @@ if n < k:
     print(m * 2)
 else:
     print((n//k + n % k) * m * 2)
-
